@@ -1,0 +1,45 @@
++<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example HTML5 Page</title>
+    <style>
+        /* You can add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Example Page</h1>
+    </header>
+    <main>
+        <h2>About This Page</h2>
+        <p>This is a simple HTML5 example page. You can use it as a starting point for your own web projects.</p>
+
+        <h2>HTML5 Features</h2>
+        <p>HTML5 introduces many new features and elements, including &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, and more. It also supports audio and video playback, form validation, and responsive design.</p>
+
+        <h2>Get Started</h2>
+        <p>Feel free to edit this page and add your own content. Learn more about HTML5 by checking out online tutorials and resources.</p>
+    </main>
+</body>
+</html>
